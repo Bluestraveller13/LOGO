@@ -319,6 +319,11 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 #EXTINF:-1 tvg-id="SindoNewsTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://nabelsakha.com/wp-content/uploads/2023/10/Sindonews.png" group-title="Indonesia Channels",SindoNews (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+#EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-logo="https://thumbor.prod.vidiocdn.com/wZs8Xxf9gMUStqOa3fM3rznnDWM=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/187019218/ProfileBannerSinPoTV-a703fecf7ac03ff6.png" group-title="Indonesia Channels",SIN PO TV (Maxstream)
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-logo="https://thumbor.prod.vidiocdn.com/wZs8Xxf9gMUStqOa3fM3rznnDWM=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/187019218/ProfileBannerSinPoTV-a703fecf7ac03ff6.png" group-title="Indonesia Channels",SIN PO TV
