@@ -1,3 +1,161 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Saluran Nasional",0. https://t.me/semar_25
+https://super.inisemar.my.id/lapor/lapor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" group-title="Saluran Nasional",Al Quran Al Kareem TV (TV Mekah)
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/mexawy.online/wp-content/uploads/2020/04/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-Madina-Channel.webp?fit=800%2C500&ssl=1" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Saluran Nasional",Al Sunnah Al Nabawiyah TV (Tv Madinah)
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj6qu6M.png" tvg-id="ANTV.id" tvg-name="ANTV" group-title="Saluran Nasional",ANTV
+#EXTVLCOPT:x-manifest-type=DASH
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vidsemar.pages.dev/terraluna2/782.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OPaUgqx.png" tvg-id="GTV.id" group-title="Saluran Nasional",GTV
+#EXTVLCOPT:user-agent=android-R+
+#EXTVLCOPT:referer=https://www.rctiplus.com/
+https://rplus.semar26.xyz/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOE2D69.png" tvg-id="MNCTV.id" group-title="Saluran Nasional",MNCTV
+#EXTVLCOPT:user-agent=android-R+
+#EXTVLCOPT:referer=https://www.rctiplus.com/
+https://rplus.semar26.xyz/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fpNIMSas2AN0S3eDBvBy1beqj-I-_8GIVnJlthTtJG7h9RHebW93f5Y&s=10" tvg-id="RCTI.id" group-title="Saluran Nasional",RCTI R+
+#EXTVLCOPT:user-agent=android-R+
+#EXTVLCOPT:referer=https://www.rctiplus.com/
+https://rplus.semar26.xyz/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAy1NQ4.png" tvg-id="iNews.id" tvg-name="iNews" group-title="Saluran Nasional",iNews
+#EXTVLCOPT:x-manifest-type=HLS
+#EXTVLCOPT:user-agent=android-R+
+https://rplus.semar26.xyz/inews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" tvg-id="Indosiar.id" group-title="Saluran Nasional",Indosiar
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:x-manifest-type=DASH
+#KODIPROP:license_type=clearkey
+#KODIPROP:license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna2/205.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" tvg-id="Moji.id" tvg-name="Moji" group-title="Saluran Nasional",MOJI
+#EXTVLCOPT:user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fsGqhZ.png" tvg-id="SCTV.id" tvg-name="Moji Digital" group-title="Saluran Nasional",SCTV
+#EXTVLCOPT:x-manifest-type=DASH
+#EXTVLCOPT:user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/204.mpd
+
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/Thumbnail_Mentari-TV-qx1l3z44lqjtbv14zkcaulb5cfxq4iipbwg771feoe.jpg" tvg-id="MentariTV.id" tvg-name="Mentari TV" group-title="Saluran Nasional",MENTARI TV HD
+#EXTVLCOPT:x-manifest-type=HLS
+#EXTVLCOPT:user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/8237.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" tvg-id="Trans7.id" group-title="Saluran Nasional",Trans7
+#EXTVLCOPT:x-manifest-type=DASH
+#EXTVLCOPT:referer=https://www.visionplus.id/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#KODIPROP:license_type=com.widevine.alpha
+#KODIPROP:license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" tvg-id="TransTV.id" group-title="Saluran Nasional",TransTV
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:x-manifest-type=DASH
+#EXTVLCOPT:referer=https://www.visionplus.id/
+#KODIPROP:license_type=com.widevine.alpha
+#KODIPROP:license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=6
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" group-title="Saluran Nasional",CNN Indonesia
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwfGZ2N.png" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" group-title="Saluran Nasional",CNBC Indonesia
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QoOt_3TKgMM/sddefault.jpg" group-title="Saluran Nasional",MTATV
+#EXTVLCOPT:user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://sports.inisemar.my.id/max/mtatv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mKllwF.png" tvg-id="RTV.id" tvg-name="RTV" group-title="Saluran Nasional",RTV
+#KODIPROP:license_type=clearkey
+#KODIPROP:license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GelhQN9.png" tvg-id="KompasTV.id" tvg-name="Kompas TV" group-title="Saluran Nasional",Kompas TV
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" tvg-id="MagnaChannel.id" tvg-name="Magna Channel" group-title="Saluran Nasional",Magna Channel
+#EXTVLCOPT:user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkWpWhpg7-8y7i8F5tZ6EmY-KF0cOiKhdVw&s" tvg-id="NET.id" tvg-name="NET." group-title="Saluran Nasional",MDTV
+#EXTVLCOPT:x-manifest-type=DASH
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://vidsemar.pages.dev/terraluna2/875.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqSpRkD95RwJbPu04AUZ885IkqPafF57zR1aD9Eitr9cCaCMR6K9Z7OTI&s=10" tvg-id="MetroTV.my.id" tvg-name="MetroTV" group-title="Saluran Nasional",Metro TV
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCbt0pTQR2rolXioTO1RAftTPUqz24hqGGNGdzPl2dRLjk7htqqkKliuV&s=10" tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" group-title="Saluran Nasional",Beritasatu
+
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:referer=https://investor.id/
+#EXTVLCOPT:origin=https://investor.id
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UgXNqCKlZG0TogRoCbn4QxQ7mj8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-3c3792.jpg" group-title="Saluran Nasional",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAMCB2ZKrbi6mGd7h5k1w54kXpD_w" group-title="Saluran Nasional",VTV
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfQJA2kbumH4ArcxgUQOjP29u07P0FOhNXg&s" group-title="Saluran Nasional",INSPIRA
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyXLZbebDVBkt5ycd4wHcFhlqbZujBDiSjmlTjK7iM35mep91YUde49g&s=10" group-title="Saluran Nasional",JTV
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nusantaratv.com/2024/06/siaran-1719414787-06-2024.jpg" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" group-title="Saluran Nasional",Nusantara TV
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T070Wbh.png" tvg-id="BTV.id" tvg-name="BTV" group-title="Saluran Nasional",BTV
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tq4taTY.png" tvg-id="tvOne.my.id" tvg-name="TVOne" group-title="Saluran Nasional",TVOne
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://super.inisemar.my.id/sinpotv.jpg" tvg-id="9ae05db1c2a2a128e2b99c418b613b1c" group-title="Saluran Nasional",SIN PO TV
+#EXTVLCOPT:x-manifest-type=DASH
+#EXTVLCOPT:user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/19046.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lk0f0G4.png" tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" group-title="Saluran Nasional",TVRI Nasional
+#EXTVLCOPT:user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-id="TVRI.id" tvg-name="TVRI World" group-title="Saluran Nasional",TVRI Sport
+#EXTVLCOPT:user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+
+
+
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 
 EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (Vision+)
